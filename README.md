@@ -11,7 +11,7 @@ end up getting a much faster response back that way.
 ### Ask a question
 
 Asking a question is as easy as
-[creating a new issue](https://github.com/holman/JianLoong/issues/new) on this
+[creating a new issue](https://github.com/JianLoong/feedback/issues/new) on this
 project.
 
 I'll try to answer it as soon as I can get to it. Once I answer I'll close the
